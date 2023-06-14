@@ -1,6 +1,6 @@
 In Thrust We Trust
-'ITWT' is a Solid Booster Decal set for KSP
-Included are decals for the following:
+'In Thrust We Trust' is a Solid Booster Decal set for KSP
+,included are decals for the following:
 
 - Thiakol logos
 - ATK logos
