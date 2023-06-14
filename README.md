@@ -1,4 +1,3 @@
-In Thrust We Trust
 'In Thrust We Trust' is a Solid Booster Decal set for KSP
 ,included are decals for the following:
 
