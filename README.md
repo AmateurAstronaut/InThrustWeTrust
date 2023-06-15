@@ -6,9 +6,11 @@
 - Northrop Grumman old & new logos
 - Cygnus & Antares logos
 - United Space Alliance logo
+- Aerojet logos
 - OmegA logos
 - SLS booster 'swooshes' (Provided courtesy of NoLifeJordan)
 - 'Inert' & 'Loaded' booster decals
+- Circular and square tracking dots
 - Currently 5 different sets of SRB markings, in black, white & both
 
 Usage of Conformal Decals is recommended.
