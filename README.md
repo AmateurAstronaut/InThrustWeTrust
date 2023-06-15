@@ -11,8 +11,9 @@
 - SLS booster 'swooshes' (Provided courtesy of NoLifeJordan)
 - 'Inert' & 'Loaded' booster decals
 - Circular and square tracking dots
+- Complex tracking decals (Provided courtesy of SpaceFace482)
 - Currently 5 different sets of SRB markings, in black, white & both
 
 Usage of Conformal Decals is recommended.
 
-Credits: AmateurAstro, NoLifeJordan
+Credits: AmateurAstro, NoLifeJordan, SpaceFace482
