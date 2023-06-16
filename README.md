@@ -17,4 +17,6 @@
 
 Usage of Conformal Decals is recommended.
 
+To install, place 'InThrustWeTrust' and 'Flags' into Gamedata
+
 Credits: AmateurAstro, NoLifeJordan, SpaceFace482
