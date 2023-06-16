@@ -13,6 +13,7 @@
 - Circular and square tracking dots
 - Complex tracking decals (Provided courtesy of SpaceFace482)
 - Currently 5 different sets of SRB markings, in black, white & both
+- 'Switch decal' parts allowing user to use them rather than flags (Provided courtesy of NoLifeJordan)
 
 Usage of Conformal Decals is recommended.
 
